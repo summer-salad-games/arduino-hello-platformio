@@ -17,7 +17,7 @@ This project is a simple example to demonstrate the use of PlatformIO with an Ar
 
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/summer-salad-games/arduino-hello-platformio
     cd arduino-hello-platformio
     ```
 2. Open the project in your favorite IDE (e.g., VS Code with PlatformIO extension).
